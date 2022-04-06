@@ -15,6 +15,9 @@
   <a href="https://github.com/corruptmemry/sodium/issues">Request a feature</a>
   </p>
 <br />
+### 🤔 What's this?
+Sodium is a simple and soft start page for your browser inspired by <a href="https://www.reddit.com/r/unixporn/comments/o1xism/herbstluftwm_plants/">post on r/unixporn</a>. Here is some screenshots:
+![image](https://user-images.githubusercontent.com/88046785/161989571-5f7904df-3625-43ee-bd1c-c4305efbbc35.png)
 
-### Installation
+### 📦 Installation and using
 Set your home page to https://corruptmemry.github.io/sodium/
