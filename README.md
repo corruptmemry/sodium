@@ -8,7 +8,7 @@
   <h3 align="center">sodium</h3>
   <br />
   <p align="center">
-  ⚡ A firmware for Espruino/Iskra (amperka) devices that checks CO2 level 
+  ⚡ A simple and soft start page for your browser 
   <br />
   <a href="https://github.com/corruptmemry/sodium/issues">Report bug</a>
   .
