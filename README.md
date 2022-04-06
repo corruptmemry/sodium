@@ -16,3 +16,5 @@
   </p>
 <br />
 
+### Installation
+Set your home page to https://corruptmemry.github.io/sodium/
